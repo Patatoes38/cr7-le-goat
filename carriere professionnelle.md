@@ -6,33 +6,32 @@ in_menu: true
 # PARCOURS JUNIOR
 
 
-Années 	Club
+Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
 
-1993-1995 	CF Andorinha
+1993-1995 &nbsp; &nbsp;&nbsp;&nbsp;	 CF Andorinha
 
-1995-1997 	CD Nacional
+1995-1997 	&nbsp; &nbsp;&nbsp;&nbsp;	 CD Nacional
 
-1997-2002 	Sporting CP
+1997-2002 	&nbsp; &nbsp;&nbsp;&nbsp;	Sporting CP
 
 
 # PARCOURS EN CLUB
 
-#### Années	 Équipe	M.(B.)
+#### Années	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Équipe	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.(B.)
 
-2002-2003 	Sporting CP 	        31 (5)
+2002-2003 	&nbsp; &nbsp;&nbsp;&nbsp;	Sporting CP 	&nbsp; &nbsp;&nbsp;&nbsp;	     &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	   31 (5)
 
-2003-2009 	Manchester United 	292 (118)
+2003-2009 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;	 292 (118)
 
-2009-2018 	Real Madrid 	        438 (450)
+2009-2018 	&nbsp; &nbsp;&nbsp;&nbsp;	Real Madrid 	  &nbsp; &nbsp;&nbsp;&nbsp;	  &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;    438 (450)
 
-2018-2021 	Juventus FC 	        134 (101)
+2018-2021 	&nbsp; &nbsp;&nbsp;&nbsp;	Juventus FC 	    &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;    134 (101)
 
-2021-2022 	Manchester United 	54 (27)
+2021-2022 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;	54 (27)
 
-2023- 	        Al-Nassr FC 	        50 (44)
+2023- 	&nbsp;     &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	  Al-Nassr FC 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;       50 (44)
 
-Total 		                                999 (745)
-
+#### Total 		      &nbsp; &nbsp;&nbsp;&nbsp;	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                999 (745)
 
 
 # PARCOURS EN SELECTION AVEC LE PORTUGAL
