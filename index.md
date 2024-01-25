@@ -7,13 +7,13 @@ in_menu: true
 
 Cristiano Ronaldo est l'un des sportifs les plus connus au monde grâce à ses impressionnantes performances sur les terrains de football. Dans quels clubs a-t-il joué ? Combien de buts a-t-il marqué ? Comment a-t-il rencontré sa compagne Georgina Rodriguez ? Combien d'enfants a-t-il au total ? Voici tout ce qu'il faut savoir sur le célèbre footballeur.
 
-![Cristiano Ronaldo vainqueur avec le Réal Madrid]({% link images/cr7.jpg %})
+![Cristiano Ronaldo avec manchester United en 2008 ]({% link images/cr7 2.jpeg %})
 
 Cristiano Ronaldo est l’un des meilleurs joueurs de football de la planète. Né en 1985 sur l’île portugaise de Madère, au sein d’une famille modeste, Cristiano Ronaldo dos Santos Aveiro, de son nom complet, a un frère prénommé Hugo, et deux sœurs, Elma et Catia. Ses parents sont Maria Dolores dos Santos et José Dinis Aveiro. À l'âge de 11 ans, il rejoint le club du Sporting Portugal de Lisbonne. Talentueux, il lance sa carrière à Manchester United en 2003, où il évolue sous les ordres de Sir Alex Ferguson. C'est dans ce club que le sportif acquiert son statut de star du football remportant plusieurs titres nationaux et internationaux : vainqueur de la Coupe d’Angleterre en 2004, du championnat d’Angleterre en 2007, 2008 et 2009 ou encore de la Ligue des champions en 2008. Cette même année, le footballeur est élu Ballon d’or en 2008.
 
 Son père décède le 7 septembre 2005 des suites d'une tumeur du foie provoquée par son alcoolisme.
 
-![Cristiano Ronaldo avec manchester United en 2008 ]({% link images/cr7 2.jpeg %})
+![Cristiano Ronaldo vainqueur avec le Réal Madrid]({% link images/cr7.jpg %})
 
 En 2009, Cristiano Ronaldo signe au club mythique du Real de Madrid comme le joueur le plus cher de l’histoire (94 millions d'euros). Tout comme en Angleterre, le footballeur se distingue particulièrement lors de ses années avec le club espagnol. Il passe sous les ordres de José Mourinho, Carlo Ancelotti ou encore Zinédine Zidane et remporte deux championnats d'Espagne en 2012 et 2017, deux Coupes d'Espagne en 2011 et 2014 ainsi que trois Ligues des champions en 2014, 2016 et 2017. Cristiano Ronaldo porte aussi l’équipe du Portugal jusqu'au titre de championne d'Europe, en 2016.
 
