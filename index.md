@@ -13,6 +13,8 @@ Cristiano Ronaldo est l’un des meilleurs joueurs de football de la planète. N
 
 Son père décède le 7 septembre 2005 des suites d'une tumeur du foie provoquée par son alcoolisme.
 
+![Cristiano Ronaldo avec manchester United en 2008 ]({% link images/cr7 2.jpeg %})
+
 En 2009, Cristiano Ronaldo signe au club mythique du Real de Madrid comme le joueur le plus cher de l’histoire (94 millions d'euros). Tout comme en Angleterre, le footballeur se distingue particulièrement lors de ses années avec le club espagnol. Il passe sous les ordres de José Mourinho, Carlo Ancelotti ou encore Zinédine Zidane et remporte deux championnats d'Espagne en 2012 et 2017, deux Coupes d'Espagne en 2011 et 2014 ainsi que trois Ligues des champions en 2014, 2016 et 2017. Cristiano Ronaldo porte aussi l’équipe du Portugal jusqu'au titre de championne d'Europe, en 2016.
 
 Son élégance génère par ailleurs de grosses rentrées financières via des contrats d’images. Il crée sa propre marque de vêtement, CR7. Le 12 janvier 2015, il décroche, pour la troisième fois de sa carrière, le prestigieux Ballon d'or. En décembre 2016, Cristiano Ronaldo décroche un quatrième Ballon d'or. En janvier 2017, le sportif enchaîne les récompenses, et reçoit lors du Gala de la FIFA le trophée du Meilleur joueur de football de l'année 2016. Au total, Cristiano Ronaldo marque 838 buts dans sa carrière. Un palmarès hors du commun !
