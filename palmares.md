@@ -65,7 +65,7 @@ Vainqueur : 2013
 
 # Trophées Individuels 
 
-Ballon d'or : vainqueur en 2008, 2013, 2014, 2016382 et 2017383, deuxième en 2007, 2009, 2011, 2012, 2015 et 2018 et troisième en 2019.
+Ballon d'or : vainqueur en 2008, 2013, 2014, 2016 et 2017, deuxième en 2007, 2009, 2011, 2012, 2015 et 2018 et troisième en 2019.
 
 Meilleur footballeur de l'année FIFA : vainqueur en 2008, deuxième en 2009, troisième en 2007 (la récompense est remplacée par le FIFA Ballon d'or de 2010 à 2015).
 
