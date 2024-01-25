@@ -3,7 +3,19 @@ title: "Carrière professionnelle"
 order: 3
 in_menu: true
 ---
-# EN CLUB
+# PARCOURS JUNIOR
+
+
+Années 	Club
+
+1993-1995 	CF Andorinha
+
+1995-1997 	CD Nacional
+
+1997-2002 	Sporting CP
+
+
+# PARCOURS EN CLUB
 
 #### Années	 Équipe	M.(B.)
 
@@ -23,7 +35,7 @@ Total 		                                999 (745)
 
 
 
-# EN SELECTION AVEC LE PORTUGAL
+# PARCOURS EN SELECTION AVEC LE PORTUGAL
 
 
 
