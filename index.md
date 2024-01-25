@@ -23,7 +23,7 @@ Son élégance génère par ailleurs de grosses rentrées financières via des c
 
 Côté vie privée, en juin 2010, Cristiano annonce être père d’un petit garçon, Cristiano Junior, dont il obtient la garde exclusive auprès de la mère, qui préfère garder l’anonymat. La star du football est en couple avec Irina Shayk, mannequin russe. En janvier 2015, après cinq ans d'amour, l'attaché de presse d'Irina Shayk annonce la rupture du couple.
 
-![Cristiano Ronaldo et sa compagne Georgina Rodriguez]({% link images/cr7 3.jpg %})
+![Cristiano Ronaldo et sa compagne Georgina Rodriguez]({% link images/cr7 4.jpg %})
 
 En janvier 2017, il officialise avec sa nouvelle compagne, le mannequin Georgina Rodriguez. Cristiano Ronaldo la rencontre alors qu'elle est vendeuse dans une boutique Gucci à Madrid. Ils se rcroisent à nouveau lors d'une soirée mondaine et ont un coup de foudre l'un pour l'autre. Le 5 juin 2017, il devient à nouveau père, avec la naissance des jumeaux Eva et Mateo, nés de mère porteuse. En juillet 2017, il annonce que sa compagne Georgina Rodriguez est enceinte. Le 12 novembre 2017, le couple donne naissance à une fille, Alana Martina. 
 
