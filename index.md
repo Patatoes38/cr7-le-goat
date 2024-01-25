@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Biographie"
 order: 0
 in_menu: true
 ---
