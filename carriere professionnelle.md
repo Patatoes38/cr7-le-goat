@@ -3,7 +3,7 @@ title: "Carrière professionnelle"
 order: 3
 in_menu: true
 ---
-# PARCOURS JUNIOR
+### PARCOURS JUNIOR
 
 
 Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
@@ -15,7 +15,7 @@ Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
 1997-2002 	&nbsp; &nbsp;&nbsp;&nbsp;	Sporting CP
 
 
-# PARCOURS EN CLUB
+### PARCOURS EN CLUB
 
 #### Années	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Équipe	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.(B.)
 
@@ -34,7 +34,7 @@ Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
 #### Total 		      &nbsp; &nbsp;&nbsp;&nbsp;	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                999 (745)
 
 
-# PARCOURS EN SELECTION AVEC LE PORTUGAL
+### PARCOURS EN SELECTION AVEC LE PORTUGAL
 
 
 
