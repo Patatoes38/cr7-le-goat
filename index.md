@@ -19,6 +19,8 @@ En 2009, Cristiano Ronaldo signe au club mythique du Real de Madrid comme le jou
 
 Son élégance génère par ailleurs de grosses rentrées financières via des contrats d’images. Il crée sa propre marque de vêtement, CR7. Le 12 janvier 2015, il décroche, pour la troisième fois de sa carrière, le prestigieux Ballon d'or. En décembre 2016, Cristiano Ronaldo décroche un quatrième Ballon d'or. En janvier 2017, le sportif enchaîne les récompenses, et reçoit lors du Gala de la FIFA le trophée du Meilleur joueur de football de l'année 2016. Au total, Cristiano Ronaldo marque 838 buts dans sa carrière. Un palmarès hors du commun !
 
+![Cristiano Ronaldo à son domicile à Madrid en Espagne]({% link images/cr7 3.jpg %})
+
 Côté vie privée, en juin 2010, Cristiano annonce être père d’un petit garçon, Cristiano Junior, dont il obtient la garde exclusive auprès de la mère, qui préfère garder l’anonymat. La star du football est en couple avec Irina Shayk, mannequin russe. En janvier 2015, après cinq ans d'amour, l'attaché de presse d'Irina Shayk annonce la rupture du couple.
 
 En janvier 2017, il officialise avec sa nouvelle compagne, le mannequin Georgina Rodriguez. Cristiano Ronaldo la rencontre alors qu'elle est vendeuse dans une boutique Gucci à Madrid. Ils se rcroisent à nouveau lors d'une soirée mondaine et ont un coup de foudre l'un pour l'autre. Le 5 juin 2017, il devient à nouveau père, avec la naissance des jumeaux Eva et Mateo, nés de mère porteuse. En juillet 2017, il annonce que sa compagne Georgina Rodriguez est enceinte. Le 12 novembre 2017, le couple donne naissance à une fille, Alana Martina. 
