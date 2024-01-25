@@ -1,9 +1,9 @@
 ---
-title: "Palmares"
+title: "Palmarès"
 order: 1
 in_menu: true
 ---
-# Palmarès de Cristiano Ronaldo
+# Titres collectifs
 
 ### Ligue des Champions UEFA
 Vainqueur : 2007/2008, 2013/2014, 2015/2016, 2016/2017, 2017/2018
@@ -62,3 +62,19 @@ Vainqueur : 2008, 2014, 2016, 2017
 
 ### International Champions Cup
 Vainqueur : 2013 
+
+# Trophées Individuels 
+
+Ballon d'or : vainqueur en 2008, 2013, 2014, 2016382 et 2017383, deuxième en 2007, 2009, 2011, 2012, 2015 et 2018 et troisième en 2019.
+
+Meilleur footballeur de l'année FIFA : vainqueur en 2008, deuxième en 2009, troisième en 2007 (la récompense est remplacée par le FIFA Ballon d'or de 2010 à 2015).
+
+The Best, Joueur de la FIFA : vainqueur en 2016 et 2017, deuxième en 2018 et en 2020 et troisième en 2019.
+
+Meilleur footballeur de l'année UEFA : vainqueur 2007-2008 (la récompense disparaît en 2011).
+
+Meilleur attaquant de l'année UEFA : vainqueur 2007-2008, 2016-2017 et 2017-2018 (la récompense n'est pas remise de 2011 à 2017).
+
+Meilleur joueur d'Europe de l’UEFA : vainqueur en 2014, 2016 et 2017, deuxième en 2012 et 2018 et troisième en 2011, 2013, 2015 et 2019. (récompense créée en 2011).
+
+Seul joueur de l'histoire qui, lors d'une même saison remporte le Ballon d'or, le meilleur joueur mondial de l'année par la FIFA, le titre de Meilleur buteur du championnat d'Angleterre et le Soulier d'or lors de la saison 2007-2008. 
