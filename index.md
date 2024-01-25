@@ -1,5 +1,5 @@
 ---
-title: "LE GOAT CRISTIANO RONALDO"
+title: "Accueil"
 order: 0
 in_menu: true
 ---
