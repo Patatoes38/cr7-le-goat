@@ -6,7 +6,10 @@ in_menu: true
 ### PARCOURS JUNIOR
 
 
-#### Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
+#### Années 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PARCOURS JUNIOR
+
+
+Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
 
 1993-1995 &nbsp; &nbsp;&nbsp;&nbsp;	 CF Andorinha
 
@@ -50,4 +53,4 @@ in_menu: true
 
 2004 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portugal olympique 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     3 (2)
 
-2003- 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Portugal 	            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;205 (128) 
+2003- 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Portugal 	            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;205 
