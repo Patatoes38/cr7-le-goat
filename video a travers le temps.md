@@ -23,6 +23,6 @@ in_menu: true
 
 [![RONALDO AVEC LA JUVENTUS](https://img.youtube.com/vi/cWhsNYoCujM/0.jpg)](https://www.youtube.com/watch?v=cWhsNYoCujM)
 
-#### RONALDO AVEC AL NASSR (2023-
+#### RONALDO AVEC AL NASSR (2023-...)
 
 [![RONALDO AVEC AL NASSR](https://img.youtube.com/vi/nYoda8WXx5E/0.jpg)](https://www.youtube.com/watch?v=nYoda8WXx5E) 
