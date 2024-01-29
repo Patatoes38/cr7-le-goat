@@ -20,7 +20,7 @@ in_menu: true
 
 2002-2003 	&nbsp; &nbsp;&nbsp;&nbsp;	Sporting CP 	&nbsp; &nbsp;&nbsp;&nbsp;	     &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	   31 (5)
 
-2003-2009 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; 292 (118)
+2003-2009 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;	 292 (118)
 
 2009-2018 	&nbsp; &nbsp;&nbsp;&nbsp;	Real Madrid 	  &nbsp; &nbsp;&nbsp;&nbsp;	  &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;    438 (450)
 
@@ -43,7 +43,7 @@ in_menu: true
 
 2001-2002  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portugal -17 ans 	        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 (5)
 
-2003 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Portugal -20 ans 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        5 (1)
+2003 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Portugal -20 ans 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       5 (1)
 
 2002-2003  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portugal espoirs 	  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      10 (3)
 
