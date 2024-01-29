@@ -30,7 +30,7 @@ in_menu: true
 
 2023- 	&nbsp;     &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	  Al-Nassr FC 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;       50 (44)
 
-#### Total 		      &nbsp; &nbsp;&nbsp;&nbsp;	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                999 (745)
+#### Total 		      &nbsp; &nbsp;&nbsp;&nbsp;	      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;999 (745)
 
 
 ### PARCOURS AVEC LE PORTUGAL
