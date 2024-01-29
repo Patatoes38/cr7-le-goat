@@ -5,7 +5,7 @@ in_menu: true
 ---
 # L'épopée de Cristiano Ronaldo 
 
-[![test](https://img.youtube.com/vi/dE3wDp6LcBQ&t=548s)](https://www.youtube.com/watch?v=dE3wDp6LcBQ&t=548s)
+[![test](https://img.youtube.com/vi/dE3wDp6LcBQ/0.jpg)](https://www.youtube.com/watch?v=dE3wDp6LcBQ)
 
 Cristiano Ronaldo est l'un des sportifs les plus connus au monde grâce à ses impressionnantes performances sur les terrains de football. Dans quels clubs a-t-il joué ? Combien de buts a-t-il marqué ? Comment a-t-il rencontré sa compagne Georgina Rodriguez ? Combien d'enfants a-t-il au total ? Voici tout ce qu'il faut savoir sur le célèbre footballeur.
 
