@@ -5,11 +5,7 @@ in_menu: true
 ---
 ### PARCOURS JUNIOR
 
-
-#### Années 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PARCOURS JUNIOR
-
-
-Années 	&nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp; Club
+#### Années	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Équipe
 
 1993-1995 &nbsp; &nbsp;&nbsp;&nbsp;	 CF Andorinha
 
