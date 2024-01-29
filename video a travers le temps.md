@@ -19,3 +19,11 @@ in_menu: true
 ### RONALDO AVEC LA JUVENTUS (2018-2021)
 
 [![RONALDO AVEC LA JUVENTUS](https://img.youtube.com/vi/-2Bm2o7KaFk/0.jpg)](https://www.youtube.com/watch?v=-2Bm2o7KaFk)
+
+### RONALDO AVEC MANCHESTER UNITED (2021-2022)
+
+[![RONALDO AVEC LA JUVENTUS](https://img.youtube.com/vi/cWhsNYoCujM/0.jpg)](https://www.youtube.com/watch?v=cWhsNYoCujM)
+
+### RONALDO AVEC AL NASSR (2023-
+
+[![RONALDO AVEC AL NASSR](https://img.youtube.com/vi/nYoda8WXx5E/0.jpg)](https://www.youtube.com/watch?v=nYoda8WXx5E)
