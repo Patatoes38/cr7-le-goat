@@ -20,7 +20,7 @@ in_menu: true
 
 2002-2003 	&nbsp; &nbsp;&nbsp;&nbsp;	Sporting CP 	&nbsp; &nbsp;&nbsp;&nbsp;	     &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;	   31 (5)
 
-2003-2009 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;292 (118)
+2003-2009 	&nbsp; &nbsp;&nbsp;&nbsp;	Manchester United 	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;292 (118)
 
 2009-2018 	&nbsp; &nbsp;&nbsp;&nbsp;	Real Madrid 	  &nbsp; &nbsp;&nbsp;&nbsp;	  &nbsp; &nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;    438 (450)
 
